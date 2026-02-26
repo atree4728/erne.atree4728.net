@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:atree4728/Erne.git
